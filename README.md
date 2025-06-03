@@ -12,7 +12,7 @@ It returns:
 
 Console messages are printed to indicate the result.
 
-## Included Script
+## Detection Script
 
 Save this as `Check-RMSLauncher.ps1`:
 
@@ -26,3 +26,9 @@ if (Test-Path $filePath) {
     exit 1
 
 ```
+
+<br>
+<br>
+
+![RMS 3 Launcher Screenshot](Screenshot%202025-06-03%20094844.png)
+<br><br>
